@@ -1,0 +1,17 @@
+# SolidWorks temporary and lock files
+~$*
+*.tmp
+*.temp
+*.bak
+*.autosave
+*.err
+*.log
+
+# Operating-system metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local editor settings
+.idea/
+.vscode/

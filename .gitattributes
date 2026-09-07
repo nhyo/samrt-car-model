@@ -1,0 +1,21 @@
+* text=auto
+
+# Native CAD files are binary and should not be line-diffed.
+*.SLDPRT binary
+*.SLDASM binary
+*.SLDDRW binary
+*.sldprt binary
+*.sldasm binary
+*.slddrw binary
+
+# Common future CAD exports.
+*.STEP binary
+*.STP binary
+*.IGES binary
+*.IGS binary
+*.STL binary
+*.step binary
+*.stp binary
+*.iges binary
+*.igs binary
+*.stl binary
